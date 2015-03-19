@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: . FourEndPointApp_lib/mysql-connector-java-5.1.34-bin.jar 
+ FourEndPointApp_lib/json-simple-1.1.1.jar
+Main-Class: FourEndpointsApp
+
